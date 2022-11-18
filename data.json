@@ -1,0 +1,174 @@
+[
+    {
+        "id": 1,   
+        "title": "Microsoft Xbox Series Standard",
+        "desc" : "Consolas y VideoJuegos",
+        "innerHeading": "Microsoft Xbox Series Standard",
+        "price": 7608,
+        "img" : "https://telegra.ph/file/d6c85059669fb6f2fadf1.png",
+        "propiedad" : ["•Incluye control", "•Resolución de 2560 px x 1440 px.", "•Memoria RAM de 10GB","•Horas de diversión garantizada", 
+        "•Cuenta con 1 cable hdmi, 1 cable de alimentación ca"]
+    },
+    {
+        "id": 2,   
+        "title": "Microsoft Xbox Series X 1TB Standard color negro",
+        "desc" : "Consolas y VideoJuegos",
+        "innerHeading": "Microsoft Xbox Series X 1TB Standard color negro",
+        "price": 15340,
+        "img" : "https://telegra.ph/file/1b3f27689ee97a7bea52c.png",
+        "propiedad" : ["•Incluye control", "•Resolución de 2560 px x 1440 px.", "•Memoria RAM de 16GB","•Horas de diversión garantizada", 
+        "•Cuenta con 1 cable hdmi, 1 cable de alimentación ca"]
+    },
+    {
+        "id": 3,   
+        "title": "Nintendo Switch OLED 64GB Standard color rojo neón, azul neón y negro",
+        "desc" : "Consolas y VideoJuegos",
+        "innerHeading": "Nintendo Switch OLED 64GB Standard color rojo neón, azul neón y negro",
+        "price": 8788,
+        "img" : "https://telegra.ph/file/ef54f49cdf99e17832c90.png",
+        "propiedad" : ["•Incluye 2 controles", "•Resolución de 1920 px x 1080 px", "•Memoria RAM de 4GB","•Tiene pantalla táctil", 
+        "•La duración de la batería es de 9h"]
+    },
+    {
+        "id": 4,   
+        "title": "Nintendo Switch Version Animal Crossing New Horizons",
+        "desc" : "Consolas y VideoJuegos",
+        "innerHeading": "Nintendo Switch Version Animal Crossing New Horizons",
+        "price": 8849,
+        "img" : "https://telegra.ph/file/92817eca4dcf08df97458.png",
+        "propiedad" : ["•Pantalla: LCD de 6.2 pulgadas", "•Resolución de 1280 x 720", "•Memoria RAM de 32GB","•CPU / GPU: procesador NVIDIA Tegra", 
+        "•Batería interna: 4310 mAh"]
+    },
+    {
+        "id": 5,   
+        "title": "Nintendo Switch New Version 32gb Joy-con",
+        "desc" : "Consolas y VideoJuegos",
+        "innerHeading": "Nintendo Switch Version Animal Crossing New Horizons",
+        "price": 7659,
+        "img" : "https://telegra.ph/file/57b225db7b36fd1a02b60.png",
+        "propiedad" : ["•Incluye 2 controles", "•Resolución de 11280 x 720", "•Memoria RAM de 32GB","•CPU / GPU: procesador NVIDIA Tegra", 
+        "•Batería interna: 4310 mAh"]
+    },
+    {
+        "id": 6,   
+        "title": "Nintendo Switch Version 2 Mario Kart 8 Deluxe Neon",
+        "desc" : "Consolas y VideoJuegos",
+        "innerHeading": "Nintendo Switch Version Animal Crossing New Horizons",
+        "price": 9999,
+        "img" : "https://telegra.ph/file/b08d9276f4173af285ea5.png",
+        "propiedad" : ["•Pantalla: LCD de 6.2 pulgadas", "•Resolución de 1280 x 720", "•Memoria RAM de 32GB","•CPU / GPU: procesador NVIDIA Tegra", 
+        "•Batería interna: 4310 mAh"]
+    },
+    {
+        "id": 7,   
+        "title": "Moto G60 Dual SIM 128 GB plata 6 GB RAM",
+        "desc" : "Celulares y Telefonía",
+        "innerHeading": "Moto G60 Dual SIM 128 GB plata 6 GB RAM",
+        "price": 4879,
+        "img" : "https://telegra.ph/file/b41e9f07f8dcc54fade01.png",
+        "propiedad" : ["•Pantalla IPS de 6.8", "•Tiene 3 cámaras traseras de 108Mpx/8Mpx/2Mpx", "•Procesador Snapdragon 732G Octa-Core de 2.3GHz con 6GB de RAM",
+        "•Batería de 6000mAh", "•Memoria interna de 128GB"]
+    },
+    {
+        "id": 8,   
+        "title": "Xiaomi Redmi 9A Dual SIM 64 GB azul celeste 4 GB RAM",
+        "desc" : "Celulares y Telefonía",
+        "innerHeading": "Xiaomi Redmi 9A Dual SIM 64 GB azul celeste 4 GB RAM",
+        "price": 3123,
+        "img" : "https://telegra.ph/file/7fb92ced82a8417a2dc8d.png",
+        "propiedad" : ["•Pantalla IPS de 6.53", "•Cámara delantera de 5Mpx", "•Procesador MediaTek MT6762G Helio G25 Octa-Core de 2GHz con 4GB de RAM",
+        "•Batería de 5000mAh", "•Memoria interna de 64GB"]
+    },
+    {
+        "id": 9,   
+        "title": "Audífonos In-ear Inalámbricos Samsung Galaxy Buds Pro Blanco",
+        "desc" : "Celulares y Telefonía",
+        "innerHeading": "Audífonos In-ear Inalámbricos Samsung Galaxy Buds",
+        "price": 2999,
+        "img" : "https://telegra.ph/file/67a45730373188a5f53ab.png",
+        "propiedad" : ["•Cuenta con tecnología True Wireless", "•La batería dura 5h", "•Asistente de voz integrado: Bixby",
+        "•Con estuche de carga inalámbrica", "•Su clasificación IP es IPX7"]
+    },
+    {
+        "id": 10,   
+        "title": "Oppo A54 Dual SIM 128 GB azul 4 GB RAM",
+        "desc" : "Celulares y Telefonía",
+        "innerHeading": "Oppo A54 Dual SIM 128 GB azul 4 GB RAM",
+        "price": 4849,
+        "img" : "https://telegra.ph/file/dd64cf88a55db12c33f31.png",
+        "propiedad" : ["•Pantalla IPS de 6.51", "•Tiene 3 cámaras traseras de 13Mpx/2Mpx/2Mpx", "•Cámara delantera de 16Mpx",
+        "•Batería de 5000mAh", "•Memoria interna de 128GB"]
+    },
+    {
+        "id": 11,   
+        "title": "Xiaomi Pocophone Poco X4 Pro 5G Dual SIM 256 GB",
+        "desc" : "Celulares y Telefonía",
+        "innerHeading": "Xiaomi Pocophone Poco X4 Pro 5G Dual SIM 256 GB poco yellow 8 GB RAM",
+        "price": 7259,
+        "img" : "https://telegra.ph/file/a7a682b1bf7d98aab1e32.png",
+        "propiedad" : ["•Pantalla IPS de 6.51", "•Tiene 3 cámaras traseras de 13Mpx/2Mpx/2Mpx", "•Cámara delantera de 16Mpx",
+        "•Batería de 5000mAh", "•Memoria interna de 128GB"]
+    },
+    {
+        "id": 12,   
+        "title": "Honor X7 128gb Dual Sim 4gb Ram 48mpx Snapdragon 680",
+        "desc" : "Celulares y Telefonía",
+        "innerHeading": "Honor X7 128gb Dual Sim 4gb Ram 48mpx Snapdragon 680",
+        "price": 4599,
+        "img" : "https://telegra.ph/file/c533d98c5853ff7c3c8d4.png",
+        "propiedad" : ["•Pantalla TFT de 6.74 pulgadas", "•Cámara delantera de 8Mpx", "•Procesador Snapdragon 680 Octa-Core de 2.4GHz con 4GB de RAM",
+        "•Batería de 5000mAh", "•Memoria interna de 128GB"]
+    },
+    {
+        "id": 13,   
+        "title": "Xiaomi Mi Smart Band 7 1.62",
+        "desc" : "Joyas y Relojes",
+        "innerHeading": "Xiaomi Mi Smart Band 7 1.62 caja negra, malla negra",
+        "price": 1110,
+        "img" : "https://telegra.ph/file/4bc7051f7cc0730fbb1ae.png",
+        "propiedad" : ["•Pantalla AMOLED de 1.62", "•Resiste hasta 50m bajo el agua", "•Batería de 7 días de duración",
+        "•Conectividad por bluetooth", "•Sensores incluidos: pulsioxímetro, podómetro, sensor hr, acelerómetro, giroscopio"]
+    },
+    {
+        "id": 14,   
+        "title": "Smartwatch Amazfit Basic Bip U 1.43",
+        "desc" : "Joyas y Relojes",
+        "innerHeading": "Smartwatch Amazfit Basic Bip U 1.43 caja de policarbonato black",
+        "price": 1399,
+        "img" : "https://telegra.ph/file/93043b8dafb7017e581cc.png",
+        "propiedad" : ["•Pantalla táctil LCD TFT de 1.43", "•Resiste hasta 50m bajo el agua", "•Batería de 9 días de duración",
+        "•Conectividad por bluetooth", "•Correa intercambiable por otros colores, no incluidos en el producto"]
+    },
+    {
+        "id": 15,   
+        "title": "Smartwatch Amazfit Sport T-Rex Pro 1.3 caja 47.7mm",
+        "desc" : "Joyas y Relojes",
+        "innerHeading": "Smartwatch Amazfit Sport T-Rex Pro 1.3 caja 47.7mm",
+        "price": 3599,
+        "img" : "https://telegra.ph/file/145ade7e62f61b561b6b6.png",
+        "propiedad" : ["•Pantalla táctil AMOLED de 1.3", "•Apto para descarga de aplicaciones", "•Resiste hasta 100m bajo el agua",
+        "•Con GPS integrado", "•Batería de 18 días de duración."]
+    },
+    {
+        "id": 16,   
+        "title": "Smartwatch Amazfit GTS 3 1.75 caja de aleación de aluminio ivory",
+        "desc" : "Joyas y Relojes",
+        "innerHeading": "Smartwatch Amazfit GTS 3 1.75 caja de aleación de aluminio ivory white",
+        "price": 3599,
+        "img" : "https://telegra.ph/file/145ade7e62f61b561b6b6.png",
+        "propiedad" : ["•Pantalla táctil AMOLED de 1.3", "•Apto para descarga de aplicaciones", "•Resiste hasta 50m bajo el agua",
+        "•Con GPS integrado", "•Batería de 12 días de duración."]
+    },
+    {
+        "id": 17,   
+        "title": "Smartwatch Amazfit Basic Bip U Pro 1.43",
+        "desc" : "Joyas y Relojes",
+        "innerHeading": "Smartwatch Amazfit Basic Bip U Pro 1.43",
+        "price": 3599,
+        "img" : "https://telegra.ph/file/145ade7e62f61b561b6b6.png",
+        "propiedad" : ["•Pantalla táctil LCD TFT de 1.43", "•Resiste hasta 50m bajo el agua", "•Con GPS integrado",
+        "•Con GPS integrado", "•Batería de 12 días de duración."]
+    }
+
+    
+]
