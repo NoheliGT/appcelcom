@@ -24,7 +24,7 @@ const Search = (props) => {
       <View style={styles.center}>
 
         <TextInput
-          placeholder="¡B u s c a u n p r o d u c t o!"
+          placeholder="Buscar productos, marcas y ofertas..."
           onChangeText={text => setTextInputValue(text)}
           onKeyPress={search}
           style={{ 
@@ -37,7 +37,7 @@ const Search = (props) => {
             textAlign: 'center',
             borderWidth: 1,
             borderRadius: 40,
-            fontSize: 19
+            fontSize: 17
           }}
         />
 
