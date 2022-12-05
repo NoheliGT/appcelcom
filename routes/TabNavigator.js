@@ -22,7 +22,7 @@ const BottomTabNavigator = () => {
         position: 'relative',
         height: '11.3%',
         paddingTop: '5%',
-        backgroundColor: '#21262E',
+        backgroundColor: '#091E7A',
         borderWidth: 1,
         borderTopLeftRadius: 60,
         borderTopRightRadius: 60,
@@ -49,16 +49,6 @@ const BottomTabNavigator = () => {
       options={{
         tabBarIcon: ({ color, size }) => (
           <Icon name="search" size={25} color="#EEF2FA" />
-      )
-      }}
-      />
-
-      <Tab.Screen
-      name="Login"
-      component={LoginStackNavigator}
-      options={{
-        tabBarIcon: ({ color, size }) => (
-          <Icon name="user" size={25} color="#EEF2FA" />
       )
       }}
       />

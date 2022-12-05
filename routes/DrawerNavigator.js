@@ -1,5 +1,5 @@
 import React from "react";
-import {Button, View, Image, Pressable, Text} from 'react-native'
+import {Button, View, Image, Pressable, Text, Alert} from 'react-native'
 import { createDrawerNavigator } from "@react-navigation/drawer";
 
 import { CheckoutStackNavigator } from "./StackNavigator";
@@ -9,12 +9,12 @@ const Drawer = createDrawerNavigator();
 
 const screenOptionStyle = {
   headerStyle: {
-    backgroundColor: "#21262E",
+    backgroundColor: "#091E7A",
   },
   headerTintColor: "white",
   drawerStyle: {
-    backgroundColor: '#21262E',
-    width: '70%',
+    backgroundColor: '#091E7A',
+    width: '80%',
     color: 'white'
   },
   drawerActiveTintColor: "white",
@@ -31,7 +31,7 @@ const DrawerNavigator = () => {
       component={TabNavigator}
       options={{
       headerRight: () => (
-        <Pressable onPress={() => alert('¡Configuraciones en proceso!')}>
+        <Pressable onPress={() => Alert.alert('¡Configuraciones pendientes!')}>
           <Image
             source={{uri: "https://www.iconsdb.com/icons/preview/white/settings-xxl.png"}}
             style={{

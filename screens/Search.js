@@ -24,20 +24,20 @@ const Search = (props) => {
       <View style={styles.center}>
 
         <TextInput
-          placeholder="¡Busca tú producto!"
+          placeholder="¡B u s c a u n p r o d u c t o!"
           onChangeText={text => setTextInputValue(text)}
           onKeyPress={search}
           style={{ 
-            marginTop: 10,
+            marginTop: 13,
             width: "90%",
             height: 40, 
-            borderColor: 'gray', 
+            borderColor: '#091E7A', 
             borderWidth: 1,
             placeholderTextColor: 'gray',
             textAlign: 'center',
             borderWidth: 1,
             borderRadius: 40,
-            fontSize: 18
+            fontSize: 19
           }}
         />
 
@@ -48,9 +48,10 @@ const Search = (props) => {
             <Text
               onPress={() => navigation.navigate('Detail',{id: value.id})}
               style={{
-                fontSize: 18,
+                fontSize: 16,
                 fontWeight: "bold",
-                marginTop: 20
+                marginTop: 22,
+                color: "#091E7A"
               }}
             >
               {value.title}
@@ -74,7 +75,7 @@ const styles = StyleSheet.create({
   },
   input:{
     width: "100%",
-    height: 40,
+    height: 40
   }
 });
 

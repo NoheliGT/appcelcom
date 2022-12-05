@@ -168,7 +168,281 @@
         "img" : "https://telegra.ph/file/145ade7e62f61b561b6b6.png",
         "propiedad" : ["•Pantalla táctil LCD TFT de 1.43", "•Resiste hasta 50m bajo el agua", "•Con GPS integrado",
         "•Con GPS integrado", "•Batería de 12 días de duración."]
+    },
+    {
+        "id": 18,   
+        "title": "Bocina Philips EverPlay BT6900 portátil con bluetooth negra",
+        "desc" : "Audio y video",
+        "innerHeading": "Bocina Philips EverPlay BT6900 portátil con bluetooth negra",
+        "price": 1109,
+        "img" : "https://telegra.ph/file/6fa4a4ac62f048fb830cc.png",
+        "propiedad" : ["•Es manos libres", "•Es a prueba de el agua", "•Apta para uso en exteriores",
+        "•Potencia de 10W", "•Conector de entrada: Auxiliar"]
+    },
+    {
+        "id": 19,   
+        "title": "Gravity Bocina Portatil Con Luz Led 2x8 80w Gravity-8 Negro",
+        "desc" : "Audio y video",
+        "innerHeading": "Gravity Bocina Portatil Con Luz Led 2x8 80w Gravity-8 Negro",
+        "price": 6499,
+        "img" : "https://telegra.ph/file/fb01c00eb3cc69ac291da.png",
+        "propiedad" : ["•Tipos de parlante: Woofer", "•Es a prueba de el agua", "•Con Bluetooth: Sí",
+        "•Potencia de 10W", "•Conector de entrada: Auxiliar"]
+    },
+    {
+        "id": 20,   
+        "title": "Amazon Echo Show 8 Pantalla Inteligente Hd Negro",
+        "desc" : "Audio y video",
+        "innerHeading": "Amazon Echo Show 8 Pantalla Inteligente Hd Negro",
+        "price": 20000,
+        "img" : "https://telegra.ph/file/a1ffd1e2eab585370c272.png",
+        "propiedad" : ["•Con sistema de audio multi-room: Sí", "•Con cámara: Sí", "•Con Bluetooth: Sí",
+        "•Con display digital: Sí", "•Asistentes virtuales: Alexa"]
+    },
+    {
+        "id": 21,   
+        "title": "Amazon Echo Show 8 Pantalla Inteligente Hd Negro",
+        "desc" : "Audio y video",
+        "innerHeading": "Amazon Echo Show 8 Pantalla Inteligente Hd Negro",
+        "price": 20000,
+        "img" : "https://telegra.ph/file/a1ffd1e2eab585370c272.png",
+        "propiedad" : ["•Con sistema de audio multi-room: Sí", "•Con cámara: Sí", "•Con Bluetooth: Sí",
+        "•Con display digital: Sí", "•Asistentes virtuales: Alexa"]
+    },
+    {
+        "id": 22,   
+        "title": "Gravity Bocina Portatil Con Luz Led 2x10 100w Gravity-10 Ne",
+        "desc" : "Audio y video",
+        "innerHeading": "Gravity Bocina Portatil Con Luz Led 2x10 100w Gravity-10 Ne",
+        "price": 6499,
+        "img" : "https://telegra.ph/file/cb8862363b9d6255a46e1.png",
+        "propiedad" : ["•Tipos de parlante: Woofer", "•Es a prueba de el agua", "•Con Bluetooth: Sí",
+        "•Potencia de 10W", "•Conector de entrada: Auxiliar"]
+    },
+    {
+        "id": 23,   
+        "title": "Amazon Echo Show 8 Pantalla Inteligente Hd Blanca",
+        "desc" : "Audio y video",
+        "innerHeading": "Amazon Echo Show 8 Pantalla Inteligente Hd Blanca",
+        "price": 20000,
+        "img" : "https://telegra.ph/file/7ad8c08d41d56c01f8060.png",
+        "propiedad" : ["•Con sistema de audio multi-room: Sí", "•Con cámara: Sí", "•Con Bluetooth: Sí",
+        "•Con display digital: Sí", "•Asistentes virtuales: Alexa"]
+    },
+    {
+        "id": 24,   
+        "title": "Proyector Portátil Mundial 2022 Blanco",
+        "desc" : "Audio y video",
+        "innerHeading": "Proyector Portátil Mundial 2022 Blanco",
+        "price": 1799,
+        "img" : "https://telegra.ph/file/3a7a7f96e30abd89f5f60.png",
+        "propiedad" : ["•Brillo de la imagen: 1200 lm", "•Tamaño de la imagen: 800 X 480 DPI", "•Conexiones de entrada: AV",
+        "•Con display digital: Sí", "•Fuentes de luz: LED"]
+    },
+    {
+        "id": 25,   
+        "title": "Proyector Portátil Mundial 2022 Rojo",
+        "desc" : "Audio y video",
+        "innerHeading": "Proyector Portátil Mundial 2022 Rojo",
+        "price": 1799,
+        "img" : "https://telegra.ph/file/3a7a7f96e30abd89f5f60.png",
+        "propiedad" : ["•Brillo de la imagen: 1200 lm", "•Tamaño de la imagen: 800 X 480 DPI", "•Conexiones de entrada: AV",
+        "•Con display digital: Sí", "•Fuentes de luz: LED"]
+    },
+    {
+        "id": 26,   
+        "title": "Proyector Portátil Mundial 2022 Azul",
+        "desc" : "Audio y video",
+        "innerHeading": "Proyector Portátil Mundial 2022 Azul",
+        "price": 1799,
+        "img" : "https://telegra.ph/file/3a7a7f96e30abd89f5f60.png",
+        "propiedad" : ["•Brillo de la imagen: 1200 lm", "•Tamaño de la imagen: 800 X 480 DPI", "•Conexiones de entrada: AV",
+        "•Con display digital: Sí", "•Fuentes de luz: LED"]
+    },
+    {
+        "id": 27,   
+        "title": "Proyector Portátil Mundial 2022 Amarillo",
+        "desc" : "Audio y video",
+        "innerHeading": "Proyector Portátil Mundial 2022 Amarillo",
+        "price": 1799,
+        "img" : "https://telegra.ph/file/3a7a7f96e30abd89f5f60.png",
+        "propiedad" : ["•Brillo de la imagen: 1200 lm", "•Tamaño de la imagen: 800 X 480 DPI", "•Conexiones de entrada: AV",
+        "•Con display digital: Sí", "•Fuentes de luz: LED"]
+    },
+    {
+        "id": 28,   
+        "title": "Samsung Projector Inteligente Blanco Sp-lsp3bla",
+        "desc" : "Audio y video",
+        "innerHeading": "Samsung Projector Inteligente Blanco Sp-lsp3bla",
+        "price": 15999,
+        "img" : "https://telegra.ph/file/1ce953231527c94f1b5fb.png",
+        "propiedad" : ["•Brillo de la imagen: 550 lm", "•Tamaño de la imagen: 30 a 100", "•Con Wi-Fi: Sí",
+        "•Con display digital: Sí", "•Fuentes de luz: LED"]
+    },
+    {
+        "id": 29,   
+        "title": "Amazon Fire TV Stick Lite de voz Full HD 8GB negro",
+        "desc" : "Audio y video",
+        "innerHeading": "Amazon Fire TV Stick Lite de voz Full HD 8GB negro",
+        "price": 891,
+        "img" : "https://telegra.ph/file/ab98d0bfb24e601b76780.png",
+        "propiedad" : ["•Brillo de la imagen: 550 lm", "•Tamaño de la imagen: 30 a 100", "•Con Wi-Fi: Sí",
+        "•Con display digital: Sí", "•Fuentes de luz: LED"]
+    },
+    {
+        "id": 30,   
+        "title": "Google chromecast 3 negro",
+        "desc" : "Audio y video",
+        "innerHeading": "Google chromecast 3 negro",
+        "price": 966,
+        "img" : "https://telegra.ph/file/b7c55ba4445cf02778f41.png",
+        "propiedad" : ["•Capacidad de almacenamiento: 512 MB", "•Resolución máxima de video: 4K", "•Con Wi-Fi: Sí",
+        "•Con display digital: Sí", "•Fuentes de luz: LED"]
+    },
+    {
+        "id": 31,   
+        "title": "Samsung Business Tv Led Display 50 125.7cm Be50t-h Db01",
+        "desc" : "Audio y video",
+        "innerHeading": "Samsung Business Tv Led Display 50 125.7cm Be50t-h Db01",
+        "price": 13949,
+        "img" : "https://telegra.ph/file/6d67cc43c5e0479153b63.png",
+        "propiedad" : ["•Tipo de pantalla: LED", "•Resolución máxima de video: 4K", "•Con Wi-Fi: Sí",
+        "•Es smart: Sí", "•Fuentes de luz: LED"]
+    },
+    {
+        "id": 32,   
+        "title": "Samsung Pro Tv Led Display 50   125.7cm Be50t-h Ab02",
+        "desc" : "Audio y video",
+        "innerHeading": "Samsung Pro Tv Led Display 50   125.7cm Be50t-h Ab02",
+        "price": 13949,
+        "img" : "https://telegra.ph/file/6d67cc43c5e0479153b63.png",
+        "propiedad" : ["•Tipo de pantalla: LED", "•Resolución máxima de video: 4K", "•Con Wi-Fi: Sí",
+        "•Es smart: Sí", "•Fuentes de luz: LED"]
+    },
+    {
+        "id": 33,   
+        "title": "Xiaomi Protector De Hélices Mi Mini Drone",
+        "desc" : "Audio y video",
+        "innerHeading": "Xiaomi Protector De Hélices Mi Mini Drone",
+        "price": 399,
+        "img" : "https://telegra.ph/file/dc3775460d6b8d79bab0c.png",
+        "propiedad" : ["•Peso del paquete: 1 kg", "•Medidas: 5.6 x 5.3 x 2.6 cm", "•Color: Blanco",
+        "•Modelo: PROTMIDRONEMINI", "•Meses de garantía: 3"]
+    },
+    {
+        "id": 34,   
+        "title": "Tablet Samsung Galaxy A7 Lite SM-T225",
+        "desc" : "Audio y video",
+        "innerHeading": "Tablet Samsung Galaxy A7 Lite SM-T225",
+        "price": 4379,
+        "img" : "https://telegra.ph/file/6d67cc43c5e0479153b63.png",
+        "propiedad" : ["•Sistema operativo: Android 11.0.", "•Con procesador 2 Quad-Core Cortex-A53 de 2.3GHz", "•Resolución de pantalla de 1340px x 800px",
+        "•Con lector micro-SD, micro-SDxc", "•Memoria interna expandible hasta 1 TB con fuente externa"]
+    },
+    {
+        "id": 35,   
+        "title": "Hp 14-dk1008 Amd Athlon Silver 3050u",
+        "desc" : "Computación",
+        "innerHeading": "Hp 14-dk1008 Amd Athlon Silver 3050u",
+        "price": 9999,
+        "img" : "https://telegra.ph/file/3cc1c4d717671b1ca43b0.png",
+        "propiedad" : ["•Memoria RAM: 4 GB", "•Tamaño de la pantalla: 14", "•Sistema Operativo: Windows 10",
+        "•Memoria interna: SSD M.2 de 128 GB", "•Procesador: AMD Athlon 3050U 2.3 GHz"]
+    },
+    {
+        "id": 36,   
+        "title": "Huawei Mediapad T3 10 3gb 32gb Gris",
+        "desc" : "Computación",
+        "innerHeading": "Huawei Mediapad T3 10 3gb 32gb Gris",
+        "price": 2932,
+        "img" : "https://telegra.ph/file/e205bc4d3942edcd77414.png",
+        "propiedad" : ["•Memoria RAM: 3 GB", "•Tamaño de la pantalla: 9.6", "•Capacidad: 32 GB",
+        "•Cámara frontal: 5 Mpx", "•Cámaras traseras: 2 Mpx"]
+    },
+    {
+        "id": 37,   
+        "title": "Alcatel 3t 10 Smart 4g 2gb 32gb Negro Teclado + Flip Cover",
+        "desc" : "Computación",
+        "innerHeading": "Alcatel 3t 10 Smart 4g 2gb 32gb Negro Teclado + Flip Cover",
+        "price": 4499,
+        "img" : "https://telegra.ph/file/8d5772d8bddd881a542e8.png",
+        "propiedad" : ["•Memoria RAM: 2 GB", "•Tamaño de la pantalla: 10", "•Capacidad: 32 GB",
+        "•Cámara frontal: 2 Mpx", "•Cámaras traseras: 2 Mpx"]
+    },
+    {
+        "id": 38,   
+        "title": "Xiaomi Mi Lámpara De Escritorio Inteligente Pro Blanco",
+        "desc" : "Hogar, muebles y jardín",
+        "innerHeading": "Xiaomi Mi Lámpara De Escritorio Inteligente Pro Blanco",
+        "price": 1999,
+        "img" : "https://telegra.ph/file/2993f727e60b69ee69275.png",
+        "propiedad" : ["•Memoria RAM: 2 GB", "•Tamaño de la pantalla: 10", "•Capacidad: 32 GB",
+        "•Cámara frontal: 2 Mpx", "•Cámaras traseras: 2 Mpx"]
+    },
+    {
+        "id": 39,   
+        "title": "Xiaomi Yeelight Lightstrip Plus Blanco",
+        "desc" : "Hogar, muebles y jardín",
+        "innerHeading": "Xiaomi Yeelight Lightstrip Plus Blanco",
+        "price": 899,
+        "img" : "https://telegra.ph/file/7c4e92902c22672b33d24.png",
+        "propiedad" : ["•Incluye controlador de color: Sí", "•Incluye fuente de alimentación: Sí", "•Color De La Luz:RGB",
+        "•Largo: 1M", "•Voltaje: 110V"]
+    },
+    {
+        "id": 40,   
+        "title": "Xiaomi Mi Robot Vacuum-mop Brush Stzs01zhm",
+        "desc" : "Hogar, muebles y jardín",
+        "innerHeading": "Xiaomi Mi Robot Vacuum-mop Brush Stzs01zhm",
+        "price": 399,
+        "img" : "https://telegra.ph/file/2d6fae096ffdec16cf7e4.png",
+        "propiedad" : ["•Modelo: STZS01ZHM", "•Unidades por envase: 1", "•Color De La Luz:RGB",
+        "•Marca: Xiaomi", "•Voltaje: 110V"]
+    },
+    {
+        "id": 41,   
+        "title": "Xiaomi Mi Handheld Vacuum Cleaner Blanco 1c",
+        "desc" : "Hogar, muebles y jardín",
+        "innerHeading": "Xiaomi Mi Handheld Vacuum Cleaner Blanco 1c",
+        "price": 7199,
+        "img" : "https://telegra.ph/file/26e7295f7ef89f0e8fe69.png",
+        "propiedad" : ["•Modelo: STZS01ZHM", "•Poder 25,2 V", "•Potencia nominal 400 vatios",
+        "•Marca: Xiaomi", "•Tensión nominal 25,2 V"]
+    },
+    {
+        "id": 42,   
+        "title": "Xiaomi Mi Robot Vacuum Cepillo Gris",
+        "desc" : "Hogar, muebles y jardín",
+        "innerHeading": "Xiaomi Mi Robot Vacuum Cepillo Gris",
+        "price": 399,
+        "img" : "https://telegra.ph/file/26e7295f7ef89f0e8fe69.png",
+        "propiedad" : ["•Medidas: 3 x 9 x 25 cm", "•Meses de garantía: 3", "•Nombre de color: Gris",
+        "•Marca: Xiaomi", "•Modelo: XMIRBTCEP"]
+    },
+    {
+        "id": 43,   
+        "title": "Xiaomi Mi Rasuradora Electrica S500 Negro",
+        "desc" : "Belleza y cuidado personal",
+        "innerHeading": "Xiaomi Mi Rasuradora Electrica S500 Negro",
+        "price": 1199,
+        "img" : "https://telegra.ph/file/67825ccb4e63e7bd0f4b2.png",
+        "propiedad" : ["•Afeitado en seco o mojado", "•Superficie antihuellas PPG", "•Tecnología de afeitado flotante 360°",
+        "•Marca: Xiaomi", "•Autonomía de 60 minutos"]
+    },
+    {
+        "id": 44,   
+        "title": "Xiaomi Mi Rasuradora Eléctrica S500 Repuesto Head",
+        "desc" : "Belleza y cuidado personal",
+        "innerHeading": "Xiaomi Mi Rasuradora Eléctrica S500 Repuesto Head",
+        "price": 309,
+        "img" : "https://telegra.ph/file/38523dd16ecc38ef09788.png",
+        "propiedad" : ["•Afeitado en seco o mojado", "•Es inalámbrica: Sí", "•Tecnología de afeitado flotante 360°",
+        "•Marca: Xiaomi", "•Autonomía de 60 minutos"]
     }
+
+    
+    
+
 
     
 ]

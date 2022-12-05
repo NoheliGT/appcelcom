@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Button, Text, StyleSheet, ScrollView, Dimensions, Image, Pressable, ImageBackground } from "react-native";
+import { View, Button, Text, StyleSheet, ScrollView, Dimensions, Image, Pressable, ImageBackground, Alert } from "react-native";
 import { useSelector } from "react-redux";
 import { connect } from 'react-redux';
 import Icon from 'react-native-vector-icons/FontAwesome';
@@ -14,7 +14,7 @@ const Detail = (props) => {
     const state = useSelector((state) => state)
 
     const addToCart = (e) => {
-        alert("¡Producto añadido al carrito exitosamente!")
+        Alert.alert("¡Producto añadido al carrito exitosamente!")
         props.dispatch({ type: "ADD_CART", payload: e })
     }
 
@@ -94,7 +94,7 @@ const Detail = (props) => {
                         </Text>
                         <Text>{"\n"}</Text>
                         <Pressable style={styles.button} onPress={() => addToCart(e)}>
-                            <Text style={{color:'white', fontWeight: 'bold', fontSize:19}}>Comprar ahora</Text>
+                            <Text style={{color:'white', fontWeight: 'bold', fontSize:19}}>C O M P R A R</Text>
                         </Pressable>
                         
                     </View>
@@ -135,7 +135,7 @@ const styles = StyleSheet.create({
     },
     button:{
         width: "80%",
-        backgroundColor: "#4187FF",
+        backgroundColor: "#091E7A",
         flex: 1,
         alignItems: 'center',
         justifyContent: 'center',

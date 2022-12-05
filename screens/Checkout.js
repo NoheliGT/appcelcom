@@ -25,7 +25,7 @@ const Checkout = (props) => {
   return (
     <ScrollView>
         <View style={styles.center}>
-          <Text style={styles.heading}>Carrito ({state.cart.Carts ? state.cart.Carts.length : 0})</Text>
+          <Text style={styles.heading}>T U  C A R R I T O  ({state.cart.Carts ? state.cart.Carts.length : 0})</Text>
 
         {state.cart.Carts && state.cart.Carts.map((e) => {
               return (
@@ -65,11 +65,11 @@ const Checkout = (props) => {
 
                     </View>
 
-
+                    <Text>{"\n"}</Text>
                     <Text style={styles.delete}
                       onPress={() => removeToCart(e)}
                     >
-                      Eliminar <Icon style={styles.trash} name="trash" size={25} color="red"/>
+                      Eliminar <Icon style={styles.trash} name="trash" size={22} color="#091E7A"/>
                     </Text>
                     
                   </View>
@@ -78,7 +78,7 @@ const Checkout = (props) => {
               )
         })}
 
-          <Text style={styles.heading}>Total: <Text style={{color: 'green'}}>${state.cart.total}</Text></Text>
+          <Text style={styles.heading}>T O T A L: <Text style={{color: 'green'}}>${state.cart.total}</Text></Text>
 
       </View>
     </ScrollView>
@@ -93,14 +93,16 @@ const styles = StyleSheet.create({
 
   heading: {
     marginTop: 10,
-    fontSize: 26,
+    fontSize: 22,
     fontWeight: "bold",
-    marginBottom: "4%"
+    marginBottom: "4%",
+    color: "#091E7A"
   },
 
   heading2: {
     fontWeight: '800',
-    fontSize: 16
+    fontSize: 16,
+    color: "#091E7A"
   },
 
   delete:{
@@ -142,7 +144,7 @@ const styles = StyleSheet.create({
   same:{
     fontSize: 20,
     fontWeight: 'bold',
-    color: 'black'
+    color: '#091E7A'
   },
 });
 
